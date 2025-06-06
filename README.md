@@ -13,5 +13,6 @@ M.A.R.S or Medical Archive Records System is a Record Management System for Clin
 - Joshua Benneth P. Daguio
 - Jio Rhey B. Detros
 - Gabriel D. Meridor
+- Richard Darwin C. Sy
 - Lorenzo R. Sangalang
 - Jerahmeel R. Tatcho
